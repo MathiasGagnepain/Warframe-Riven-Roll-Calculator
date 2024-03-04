@@ -1,3 +1,4 @@
 output
 .pnotes
 *.exe
+.vscode
